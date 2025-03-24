@@ -1,7 +1,7 @@
 # WebsiteBanMyPhamDjango
-# Ngôn ngữ: Python
-# Công nghệ: Django, SQLite3
-# Các chức năng chính:
+## Ngôn ngữ: Python
+## Công nghệ: Django, SQLite3
+## Các chức năng chính:
 ### Về admin:
 - Quản lý phiếu nhập
 - Quản lý nhà cung cấp
@@ -11,7 +11,7 @@
 - Quản lý nhân viên
 - Báo cáo thống kê (xuất excel)
 
-### Về trang chủ:
+### Về user:
 - Trang chủ
 - Đăng nhập, đăng kí
 - Trang xem thông tin người dùng
